@@ -10,4 +10,5 @@
   - [Pandas 공식 문서](https://pandas.pydata.org/pandas-docs/stable/)
   - [Seaborn Documentation](https://seaborn.pydata.org/)
   - [Kaggle EDA 튜토리얼](https://www.kaggle.com/learn/intro-to-machine-learning)
+  - [Scipy 공식 문서](https://docs.scipy.org/doc/scipy/)
 
