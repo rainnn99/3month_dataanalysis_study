@@ -14,10 +14,10 @@
 
   ## 🛠️ 사용 기술 및 환경
 
-  - **Python
+  - **Python**
   - **Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn**
   - **SQL (MySQL / PostgreSQL)**
-  - **Jupyter Notebook
+  - **Jupyter Notebook**
   - **Streamlit**
   - **Git, GitHub**
 
@@ -46,44 +46,34 @@
 
   ```plaintext
   📁 docs
-   └─ timeline.md
-   └─ learning_guide.md
-   └─ requirements.txt
-  📁 1week
-   └─ 📁 data
-   └─ day(n).ipynb
-   └─ day(n)_note.md
-  📁 2week
-  📁 3week
-  📁 4week
-  📁 5week
-  📁 6week
-  📁 7week
-  📁 8week
-  📁 9week
-  📁 10week
-  📁 11week
-  📁 12week
+   ├─ timeline.md           # 전체 학습 계획 및 주차별 일정 정리
+   ├─ learning_guide.md     # 주요 학습 주제별 요약 및 개념 정리
+   └─ requirements.txt      # 프로젝트 실행을 위한 라이브러리 명세
+  
+  📁 1week ~ 12week
+   ├─ day(n).ipynb          # 각 일자별 실습 코드 파일
+   ├─ day(n)_note.md        # 각 일자별 학습 노트/이론 정리
+   ├─ 📁 data                # 분석 대상 데이터 저장
+   └─ 📁 artifacts           # 산출물 (보고서, 시각화 결과 등), 선택적으로 생성됨
   ```
-
+  
   ---
-
+  
   ## ✅ 달성 목표
-
+  
   - [x] 실무형 EDA 자동화 도구 사용법 익히기
   - [x] SQL, 시각화, 전처리, 모델링 등 핵심 스킬 정리
   - [x] 포트폴리오용 프로젝트 기획 및 구현
   - [x] Streamlit으로 분석 결과 웹 배포
-  - [x] GitHub 기반 학습 이력 관리 및 정리
-
-  ---
-
-  ## 🧠 기타 참고 문서
-
+- [x] GitHub 기반 학습 이력 관리 및 정리
+  
+---
+  
+## 🧠 기타 참고 문서
+  
   - [`timeline.md`](./timeline.md): 주차별 학습 체크리스트
   - [`learning_guide.md`](./learning_guide.md): 전체 학습 개요 및 목적 정리
   - [`requirements.txt`](./requirements.txt): 사용한 패키지 목록
-
-  ## 
+  
 
 
