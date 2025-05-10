@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-04
 	- `pandas_profiling`, `sweetviz`, `dtale`등을 사용해서 데이터 프로파일 리포트 자동화
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-04
-	- day4_profiling.ipynb
+	- [day4_profiling.ipynb](./day4_profiling.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-04
 - [x] 깃허브 커밋 ✅ 2025-05-04
 - [x] 회고 작성 ✅ 2025-05-04
@@ -24,7 +24,7 @@ tags: [daily, #학습기록]
 | AutoViz         | O        | 중간           | X     | X     | jupyter환경에서 바로 확인 가능, 다른 도구들보다 상대적으로 정보량 적음                                                 |
 | dtale           | X        | 높음           | X     | O     | 실시간 탐색 UI, 필터링/정렬/요약 조작 가능 기본적으로 html로 저장을 지원하지 않으나, 자체 메뉴에서 저장을 따로 시킨 경우 html파일에서 인터랙티브 불가 |
 
-- 실습 결과 요약: day4_profiling.ipynb, day4_report_(tool).html
+- 실습 결과 요약: [day4_profiling.ipynb](./day4_profiling.ipynb), day4_report_(tool).html
 - 주요 인사이트:
 	- 이런 도구가 있다는걸 몰랐다
 	- 데이터를 기본적으로 정제하기 전에 먼저 대략적으로 파악하여 정제 범위 설정 및 정제 방향 잡는데도 좋을 것 같다

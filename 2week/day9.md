@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-09
 	- 결측값 처리 isnull 사용, fillna, dropna 사용 방식 비교
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-09
-	- day9_ missing_value_handling.ipynb
+	- [day9_ missing_value_handling.ipynb](.day9_ missing_value_handling.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-09
 - [x] 깃허브 커밋 ✅ 2025-05-09
 - [x] 회고 작성 ✅ 2025-05-09
@@ -25,7 +25,7 @@ tags: [daily, #학습기록]
 | 사용 시기  | 결측치가 적거나, 불필요한 행일 경우  | 결측치가 많거나, 삭제가 분석에 악영향일 경우 |
 | 단점     | 의미있는 값들이 함께 제거 될 수 있음 | 잘못된 값으로 채우면 왜곡의 위험 있음     |
 
-- 실습 결과 요약: day9_ missing_value_handling.ipynb
+- 실습 결과 요약: [day9_ missing_value_handling.ipynb](.day9_ missing_value_handling.ipynb)
 - 주요 인사이트:
 	- 편한건 아무래도 dropna지만, 결측값이 많을때 사용하게 되면 fillna에 평균값 때려넣은 것보다 더한 왜곡이 발생할 수 있을 것 같다
 	- fillna의 사용시 어떤값으로 대체해야 하는지에 대한 고민이 많이 필요하다는걸 느꼈다 지금 하는 데이터의 크기와 수준에서는 크게 문제가 없을지 몰라도, 데이터셋이 커지고, 분석의 난이도가 높아지는 경우에 이 작은 차이가 결과에 큰 변화를 가져올 수 있을 것 같다

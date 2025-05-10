@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-02
 	- 이상치 탐지(IQR, z-score), 변수 간 상관 분석 (`.corr()`, `heatmap`)
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-02
-	- day2_EDA_statistics.ipynb
+	- [day2_EDA_statistics.ipynb](./day2_EDA_statistics.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-02
 - [x] 깃허브 커밋 ✅ 2025-05-02
 - [x] 회고 작성 ✅ 2025-05-02
@@ -33,7 +33,7 @@ tags: [daily, #학습기록]
 		- 0.70 ~ 0.90 : 매우 강한 상관, 변수 간 관계가 뚜렷함, 다중공선성 가능성 있음
 		- 0.90 ~ 1.00 : 거의 완벽한 상관, 변수 간 중복 가능성, 동일 정보 수준
 		
-- 실습 결과 요약: day2_EDA_statistics.ipynb
+- 실습 결과 요약: [day2_EDA_statistics.ipynb](./day2_EDA_statistics.ipynb)
 - 주요 인사이트:
 	- z-score의 계산식이 어디서 많이 본것같다 했는데 표준 정규화에 사용하는 수식이었다
 	- Fare을 z-score로 따졌을때 왼쪽으로 많이 치우쳐저 있어 신뢰도가 높다고 할수 있나 라는 생각을 했는데 역시나 였다는 생각을 했다

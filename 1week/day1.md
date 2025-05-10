@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-04-30
 	- 1주차에 사용할 데이터 준비 및 `.describe()`, `.value_counts()`, `.groupby()` 조합 / 분석 자동화용 템플릿 작성
 - [x] 개념 정리 및 예제 실습 ✅ 2025-04-30
-	- day1_EDA_basic.ipynb
+	- [day1_EDA_basic.ipynb](./day1_EDA_basic.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-04-30
 - [x] 깃허브 커밋 ✅ 2025-04-30
 - [x] 회고 작성 ✅ 2025-04-30
@@ -22,7 +22,7 @@ tags: [daily, #학습기록]
 	- `.value_counts()`: unique한 column에 대한 값의 개수를 확인
 	- `.groupby(x)[y]`: x의 값에 따라 그룹화 하여 y컬럼의 값만 선택 이후 집계함수 사용
 	- `.agg()`: 다양한 집계연산을 한번에 수행하게 해줌
-- 실습 결과 요약: day1_EDA_basic.ipynb
+- 실습 결과 요약: [day1_EDA_basic.ipynb](./day1_EDA_basic.ipynb)
 - 주요 인사이트:
 	- EDA 자동화하는 함수를 만들어서 써본건 처음인데 여러 column으로 비교해야 할 경우 상당히 편리하게 사용할 수 있다는 것을 알게 되었다
 	- 사용한 titanic데이터셋 에서 평균적으로 여성의 티켓 요금이 남성보다 높았고, 가족단위로 탑승한 사람이 가장 많은 항구는 S였다

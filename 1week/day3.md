@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-03
 	- 범주형/수치형 변수 시각화 공식 패턴 정리 (histplot, countplot, pairplot 등)
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-03
-	- day3_EDA_visualization.ipynb
+	- [day3_EDA_visualization.ipynb](./day3_EDA_visualization.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-03
 - [x] 깃허브 커밋 ✅ 2025-05-03
 - [x] 회고 작성 ✅ 2025-05-03
@@ -21,7 +21,7 @@ tags: [daily, #학습기록]
 	- `boxplot()`: 상자그림, 이상치 탐지에 활용
 	- `violinplot()`: 바이올린그림, 그룸으로 나눈 데이터의 분포를 비교할때 활용
 	- `pairplot(), scatterplot()`: 산점도, 수치형 변수간 관계를 파악할때 활용 선택된 변수의 모든 가능한 scatterplot를 그려주는게 pairplot
-- 실습 결과 요약: day3_EDA_visualization.ipynb
+- 실습 결과 요약: [day3_EDA_visualization.ipynb](./day3_EDA_visualization.ipynb)
 - 주요 인사이트:
 	- scatterplot()는 사용해본 적이 있어 익숙했는데 pairplot는 실제로 사용해봤던 적이 없던거 같아 낯설었다 
 	- 다만 필요한 변수를 선택해서 scatterplot를 사용하는 것보다 먼저 선택된 변수들이 있다면 그걸 그대로 활용해서 pairplot로 한눈에 보는게 전반적인 관계를 보는데 도움이 될것 같다

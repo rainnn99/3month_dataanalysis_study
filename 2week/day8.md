@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-08
 	- 다양한 병합 방식 비교 및 실습(merge, join, concat)
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-08
-	- day8_merge.ipynb
+	- [day8_merge.ipynb](./day8_merge.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-08
 - [x] 깃허브 커밋 ✅ 2025-05-08
 - [x] 회고 작성 ✅ 2025-05-08
@@ -22,7 +22,7 @@ tags: [daily, #학습기록]
 		- params: df1.join(df2, lsuffix='x', rsufflx='y', how='')
 	- `concat()`: 축(axis)방향으로 결합
 		- params: pd.concat(\[df1, df2], axis=0,1)
-- 실습 결과 요약: day8_merge.ipynb
+- 실습 결과 요약: [day8_merge.ipynb](./day8_merge.ipynb)
 - 주요 인사이트:
 	- merge, join, concat의 차이점에 대해 찾아보았다
 

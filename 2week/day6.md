@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-06
 	- 집계 함수와 reshape 방식 익히기(`groupby`, `pivot_table`)
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-06
-	- day6_groupby,pivot_table.ipynb
+	- [day6_groupby,pivot_table.ipynb](./day6_groupby,pivot_table.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-06
 - [x] 깃허브 커밋 ✅ 2025-05-06
 - [x] 회고 작성 ✅ 2025-05-06
@@ -29,7 +29,7 @@ tags: [daily, #학습기록]
 	- `pivot_table()`: 피벗테이블을 만들어 주는 함수
 		- params = (df_name, values='xxx', index='xxx', columns='xxx', aggfunc='xxx', fill_value=x)
 		- idx나 columns에 여러개 삽입가능, 그러나 둘다 여러 값이 들어갈 수 없음
-- 실습 결과 요약: day6_groupby,pivot_table.ipynb
+- 실습 결과 요약: [day6_groupby,pivot_table.ipynb](./day6_groupby,pivot_table.ipynb)
 - 주요 인사이트:
 	- groupby의 결과나 pivot_table의 결과나 크게 차이가 없는것 같아 하나만 사용해도 될거 같다는 생각이 들어 차이점을 찾아보았다
 

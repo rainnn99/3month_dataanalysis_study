@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-06
 	- 사용자 정의 함수 적용과 처리 방식 이해(apply, map, lambda)
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-06
-	- day7_custom_func.ipynb
+	- [day7_custom_func.ipynb](./day7_custom_func.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-06
 - [x] 깃허브 커밋 ✅ 2025-05-06
 - [x] 회고 작성 ✅ 2025-05-06
@@ -19,7 +19,7 @@ tags: [daily, #학습기록]
 	- `apply()`: 각 원소에 대해 정의된 함수, lambda함수 적용. 벡터화 연산보다 느림
 	- `map()`: 각 원소에 대해 mapping 작업시 사용
 	- `lambda`: 함수형 프로그래밍을 지원하는 함수들을 사용할 때 간단한 함수를 def없이 정의해 사용
-- 실습 결과 요약: day1_EDA_basic.ipynb
+- 실습 결과 요약: [day7_custom_func.ipynb](./day7_custom_func.ipynb)
 - 주요 인사이트:
 	- `map()`함수를 사용할 일이 많을까 라는 생각이 들었는데 노트의 class를 만들때 처럼 값이 많지 않은 경우 apply보다 속도가 빨라 사용가치가 있다
 	- `apply()`함수를 사용하면 데이터를 내가 원하는대로 수정, 정제하는 단계에서 굉장히 유용하게 사용할 수 있다

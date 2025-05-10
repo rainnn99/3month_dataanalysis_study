@@ -8,7 +8,7 @@ tags: [daily, #학습기록]
 - [x] 학습 주제 확인 및 준비 ✅ 2025-05-05
 	- EDA to Report 흐름 전체 복습, 분석 템플릿 파일 생성 및 Obsidian에 요약 저장
 - [x] 개념 정리 및 예제 실습 ✅ 2025-05-05
-	- day5_EDAflow.ipynb
+	- [day5_EDAflow.ipynb](./day5_EDAflow.ipynb)
 - [x] 주요 인사이트 정리 ✅ 2025-05-05
 - [x] 깃허브 커밋 ✅ 2025-05-06
 - [x] 회고 작성 ✅ 2025-05-05
@@ -24,7 +24,7 @@ tags: [daily, #학습기록]
 	6. 범주형 변수와 타겟 관계 파악
 	7. 전체 상관관계 파악
 	8. 자동화 도구 (`ydata_profiling`) 활용
-- 실습 결과 요약: day5_EDAflow.ipynb
+- 실습 결과 요약: [day5_EDAflow.ipynb](./day5_EDAflow.ipynb)
 - 주요 인사이트:
 	- 이론적인 부분에서는 복습의 개념이라 딱히 없었다
 	- Gr Liv Area와 Bedroom AbvGr이 0.5의 상관관계를 가지지만, 집값에 있어서는 각각 아주 강한 상관관계(0.71), 매우 약한 상관관계(0.14)가 될 수 있다는것이 궁금해 더 찾아 보았다.
