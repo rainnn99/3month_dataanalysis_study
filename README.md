@@ -46,8 +46,8 @@
 
   ```plaintext
   📁 docs
-   ├─ timeline.md           # 전체 학습 계획 및 주차별 일정 정리
-   ├─ learning_guide.md     # 주요 학습 주제별 요약 및 개념 정리
+   ├─ Timeline.md           # 전체 학습 계획 및 주차별 일정 정리
+   ├─ Learning_guide.md     # 주요 학습 주제별 요약 및 개념 정리
    └─ requirements.txt      # 프로젝트 실행을 위한 라이브러리 명세
   
   📁 1week ~ 12week
@@ -71,9 +71,9 @@
   
 ## 🧠 기타 참고 문서
   
-  - [`timeline.md`](./timeline.md): 주차별 학습 체크리스트
-  - [`learning_guide.md`](./learning_guide.md): 전체 학습 개요 및 목적 정리
-  - [`requirements.txt`](./requirements.txt): 사용한 패키지 목록
+  - [`Timeline.md`](docs/timeline.md): 주차별 학습 체크리스트
+  - [`Learning_guide.md`](docs/Learning_guide.md): 전체 학습 개요 및 목적 정리
+  - [`requirements.txt`](docs/requirements.txt): 사용한 패키지 목록
   
 
 
